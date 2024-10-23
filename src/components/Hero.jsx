@@ -27,7 +27,7 @@ const Hero = () => {
             href="/resume.pdf"
             download="resume.pdf"
             className="px-6 py-3 w-full rounded-xl mr-4 bg-gradient-to-br from-orange-500 to-pink-500 text-white">
-            Download Resume
+            Resume
           </a>
           <a
             href="https://www.linkedin.com/in/bharathwaj-rr-021ab4236/"
